@@ -38,11 +38,11 @@
 <img width="75px" src="https://github.com/cpp981/cpp981/blob/main/MySQL-Dark.svg" alt="MySQL Icon" />
 <img width="75px" src="https://github.com/cpp981/cpp981/blob/main/PHP-Dark.svg" alt="PHP Icon" /> -->
 
-
-### Please Follow me on GitHub
+<h1 align="center"> 
+ Please Follow me on GitHub
 
 [![GitHub](https://img.shields.io/badge/GitHub-yellow?style=social&logo=GitHub&logoColor=black&color=white)](https://github.com/cpp981)
-
+</h1>
 
 <!--
 **cpp981/cpp981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
