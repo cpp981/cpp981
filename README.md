@@ -1,11 +1,11 @@
 # Hello 👋
 
-
 ﻿<h1 align="center"> 
  <!--![StarsCount](https://img.shields.io/github/stars/leonxrdon?style=social)  -->
  
-  ![VisitorCountLogo](https://img.shields.io/badge/Visitor%20Count-Yellow?style=social&logo=Github&logoColor=black&color=white)  
-  ![Visitor Count](https://profile-counter.glitch.me/cpp981/count.svg)  
+  [![VisitorCountLogo](https://img.shields.io/badge/Visitor%20Count-Yellow?style=social&logo=Github&logoColor=black&color=white)](https://github.com/cpp98)  
+  
+  ![Visitor Count](https://profile-counter.glitch.me/cpp981/count.svg) 
   
 </h1>
 
@@ -30,19 +30,14 @@
 
 ### Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=MySQL&logoColor=white&color=4a94be)
-<!-- <img width="75px" src="https://github.com/cpp981/cpp981/blob/main/CSS.svg" alt="CSS Icon" /><img width="75px" src="https://github.com/cpp981/cpp981/blob/main/Git.svg" alt="Git Icon" />
-<img width="75px" src="https://github.com/cpp981/cpp981/blob/main/HTML.svg" alt="HTML Icon" />
-<img width="75px" src="https://github.com/cpp981/cpp981/blob/main/JQuery.svg" alt="JQuery Icon" />
-<img width="75px" src="https://github.com/cpp981/cpp981/blob/main/Java-Dark.svg" alt="Java Icon" />
-<img width="75px" src="https://github.com/cpp981/cpp981/blob/main/JavaScript.svg" alt="JS Icon" />
-<img width="75px" src="https://github.com/cpp981/cpp981/blob/main/MySQL-Dark.svg" alt="MySQL Icon" />
-<img width="75px" src="https://github.com/cpp981/cpp981/blob/main/PHP-Dark.svg" alt="PHP Icon" /> -->
 
-<h1 align="center"> 
+
+<h2 align="center">  
+ 
  Please Follow me on GitHub
 
 [![GitHub](https://img.shields.io/badge/GitHub-yellow?style=social&logo=GitHub&logoColor=black&color=white)](https://github.com/cpp981)
-</h1>
+</h2>
 
 <!--
 **cpp981/cpp981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
