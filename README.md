@@ -17,13 +17,12 @@
 ![Java](https://img.shields.io/badge/Java-yellow?style=for-the-badge&logoColor=black&color=1723ad)  
 
 ### Frameworks & Libraries  
-![JQuery](https://img.shields.io/badge/JQuery-yellow?style=for-the-badge&logo=JQuery&logoColor=black&color=226fd6)
+![JQuery](https://img.shields.io/badge/JQuery-yellow?style=for-the-badge&logo=JQuery&logoColor=black&color=226fd6) ![Bootstrap](https://img.shields.io/badge/Bootstrap-Yellow?style=for-the-badge&logo=Bootstrap&logoColor=white&color=6617d0)
 
 ### Tools & Platforms
 ![Linux](https://img.shields.io/badge/Linux-Yellow?style=for-the-badge&logo=Linux&logoColor=white&color=3a5cd1) ![Composer](https://img.shields.io/badge/Composer-yellow?style=for-the-badge&logo=composer&logoColor=white&color=814733) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Yellow?style=for-the-badge&logo=Bootstrap&logoColor=white&color=6617d0)
-![NetBeans](https://img.shields.io/badge/NetBeans-yellow?style=for-the-badge&logo=apachenetbeanside&color=c5163b)  
-![VSCode](https://img.shields.io/badge/VSCode-Yellow?style=for-the-badge&logoColor=white&color=2581de)
+![NetBeans](https://img.shields.io/badge/NetBeans-yellow?style=for-the-badge&logo=apachenetbeanside&color=c5163b)
+![VSCode](https://img.shields.io/badge/VSCode-Yellow?style=for-the-badge&logoColor=white&color=2581de)  
 ![NMAP](https://img.shields.io/badge/NMAP-yellow?style=for-the-badge&logo=Nmap&logoColor=white&color=575d61)
 
 ### Version Control  
