@@ -31,7 +31,6 @@
 ### Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=MySQL&logoColor=white&color=4a94be)
 
-
 <h2 align="center">  
  
  Please Follow me on GitHub
