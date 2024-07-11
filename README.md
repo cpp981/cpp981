@@ -13,7 +13,8 @@
 
 ### Tools & Platforms
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=Linux&logoColor=black&color=dae32e)  ![Git](https://img.shields.io/badge/Git-yellow?style=for-the-badge&logo=Git&logoColor=white&color=c34218)
-![Composer](https://img.shields.io/badge/Composer-yellow?style=for-the-badge&logo=composer&logoColor=white&color=814733)  
+![Composer](https://img.shields.io/badge/Composer-yellow?style=for-the-badge&logo=composer&logoColor=white&color=814733) 
+![NMAP](https://img.shields.io/badge/NMAP-yellow?style=for-the-badge&logo=Nmap&logoColor=white&color=575d61)
 
 ### Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=MySQL&logoColor=white&color=4a94be)
@@ -28,7 +29,7 @@
 
 ### Please Follow me on GitHub
 
-[![GitHub](https://img.shields.io/badge/GitHub--blue?logo=github&logoSize=auto)](https://github.com/cpp981)
+[![GitHub](https://img.shields.io/badge/GitHub-yellow?style=social&logo=GitHub&logoColor=black&color=white)](https://github.com/cpp981)
 
 <!--
 **cpp981/cpp981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
