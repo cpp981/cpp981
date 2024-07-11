@@ -1,20 +1,32 @@
 # Hello 👋
-<!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cpp981) -->
+
+
+﻿<h1 align="center"> 
+ <!--![StarsCount](https://img.shields.io/github/stars/leonxrdon?style=social)  -->
+ 
+  ![VisitorCountLogo](https://img.shields.io/badge/Visitor%20Count-Yellow?style=social&logo=Github&logoColor=black&color=white)  
+  ![Visitor Count](https://profile-counter.glitch.me/cpp981/count.svg)  
+  
+</h1>
 
 ## Skills  
 ### Languages  
 ![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white&color=6d629c) ![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=black&color=c7c222)
 ![SQL](https://img.shields.io/badge/SQL-yellow?style=for-the-badge&logo=sql&logoColor=black&color=1746a5)
-![SQL](https://img.shields.io/badge/HTML-yellow?style=for-the-badge&logo=sql&logoColor=black&color=b85e23)
+![HTML](https://img.shields.io/badge/HTML5-Yellow?style=for-the-badge&logo=html5&logoColor=white&color=d16b1c)
 ![Java](https://img.shields.io/badge/Java-yellow?style=for-the-badge&logoColor=black&color=1723ad)  
 
 ### Frameworks & Libraries  
 ![JQuery](https://img.shields.io/badge/JQuery-yellow?style=for-the-badge&logo=JQuery&logoColor=black&color=226fd6)
 
 ### Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=Linux&logoColor=black&color=dae32e)  ![Git](https://img.shields.io/badge/Git-yellow?style=for-the-badge&logo=Git&logoColor=white&color=c34218)
-![Composer](https://img.shields.io/badge/Composer-yellow?style=for-the-badge&logo=composer&logoColor=white&color=814733) 
+![Linux](https://img.shields.io/badge/Linux-Yellow?style=for-the-badge&logo=Linux&logoColor=white&color=3a5cd1) ![Composer](https://img.shields.io/badge/Composer-yellow?style=for-the-badge&logo=composer&logoColor=white&color=814733) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Yellow?style=for-the-badge&logo=Bootstrap&logoColor=white&color=6617d0)
 ![NMAP](https://img.shields.io/badge/NMAP-yellow?style=for-the-badge&logo=Nmap&logoColor=white&color=575d61)
+![VSCode](https://img.shields.io/badge/VSCode-Yellow?style=for-the-badge&logoColor=white&color=2581de)
+
+### Version Control  
+![Git](https://img.shields.io/badge/Git-yellow?style=for-the-badge&logo=Git&logoColor=white&color=c34218) ![GitHub](https://img.shields.io/badge/GitHub-Yellow?style=for-the-badge&logo=GitHub&logoColor=white&color=black)
 
 ### Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=MySQL&logoColor=white&color=4a94be)
@@ -30,6 +42,7 @@
 ### Please Follow me on GitHub
 
 [![GitHub](https://img.shields.io/badge/GitHub-yellow?style=social&logo=GitHub&logoColor=black&color=white)](https://github.com/cpp981)
+
 
 <!--
 **cpp981/cpp981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
