@@ -9,7 +9,7 @@
   
 </h1>
 
-## Skills  
+## Skills 🛠️  
 ### Languages  
 ![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white&color=6d629c) ![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=black&color=c7c222)
 ![SQL](https://img.shields.io/badge/SQL-yellow?style=for-the-badge&logo=sql&logoColor=black&color=1746a5)
