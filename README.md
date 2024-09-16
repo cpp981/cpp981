@@ -23,7 +23,7 @@
 ![Linux](https://img.shields.io/badge/Linux-Yellow?style=for-the-badge&logo=Linux&logoColor=white&color=3a5cd1) ![Composer](https://img.shields.io/badge/Composer-yellow?style=for-the-badge&logo=composer&logoColor=white&color=814733) 
 ![NetBeans](https://img.shields.io/badge/NetBeans-yellow?style=for-the-badge&logo=apachenetbeanside&color=c5163b)
 ![VSCode](https://img.shields.io/badge/VSCode-Yellow?style=for-the-badge&logoColor=white&color=2581de)  
-![NMAP](https://img.shields.io/badge/NMAP-yellow?style=for-the-badge&logo=Nmap&logoColor=white&color=575d61)
+
 
 ### Version Control  
 ![Git](https://img.shields.io/badge/Git-yellow?style=for-the-badge&logo=Git&logoColor=white&color=c34218) ![GitHub](https://img.shields.io/badge/GitHub-Yellow?style=for-the-badge&logo=GitHub&logoColor=white&color=black)
