@@ -18,7 +18,7 @@
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?&style=for-the-badge&logo=cshrp&logoColor=white)
 
 ### Frameworks & Libraries  
-![JQuery](https://img.shields.io/badge/JQuery-yellow?style=for-the-badge&logo=JQuery&logoColor=black&color=226fd6) ![Bootstrap](https://img.shields.io/badge/Bootstrap-Yellow?style=for-the-badge&logo=Bootstrap&logoColor=white&color=6617d0) ![.NET](https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![Vue.JS](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%234A6C8C?style=for-the-badge)
+![JQuery](https://img.shields.io/badge/JQuery-yellow?style=for-the-badge&logo=JQuery&logoColor=black&color=226fd6) ![Bootstrap](https://img.shields.io/badge/Bootstrap-Yellow?style=for-the-badge&logo=Bootstrap&logoColor=white&color=6617d0) ![.NET](https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![Vue.JS](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 
 ### Tools & Platforms
