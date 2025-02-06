@@ -16,9 +16,13 @@
 ![HTML](https://img.shields.io/badge/HTML5-Yellow?style=for-the-badge&logo=html5&logoColor=white&color=d16b1c)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?&style=for-the-badge&logo=cshrp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### Frameworks & Libraries  
 ![JQuery](https://img.shields.io/badge/JQuery-yellow?style=for-the-badge&logo=JQuery&logoColor=black&color=226fd6) ![Bootstrap](https://img.shields.io/badge/Bootstrap-Yellow?style=for-the-badge&logo=Bootstrap&logoColor=white&color=6617d0) ![.NET](https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![Vue.JS](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 
 
 ### Tools & Platforms
