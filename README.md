@@ -28,7 +28,7 @@
 ### Tools & Platforms
 ![Linux](https://img.shields.io/badge/Linux-Yellow?style=for-the-badge&logo=Linux&logoColor=white&color=3a5cd1) ![Composer](https://img.shields.io/badge/Composer-yellow?style=for-the-badge&logo=composer&logoColor=white&color=814733) 
 ![NetBeans](https://img.shields.io/badge/NetBeans-yellow?style=for-the-badge&logo=apachenetbeanside&color=c5163b)
-![VSCode](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=vsc&logoColor=white) ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?&style=for-the-badge&logo=trello&logoColor=fff)<br>
+![VSCode](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=vsc&logoColor=white) ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white)<br> ![Trello](https://img.shields.io/badge/Trello-0052CC?&style=for-the-badge&logo=trello&logoColor=fff)
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
