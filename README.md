@@ -5,7 +5,7 @@
  
   [![VisitorCountLogo](https://img.shields.io/badge/Visitor%20Count-Yellow?style=social&logo=Github&logoColor=black&color=white)](https://github.com/cpp981)  
   
-  ![Visitor Count](https://profile-counter.glitch.me/cpp981/count.svg) 
+ ![Visitor Count](https://profile-counter.glitch.me/cpp981/count.svg)
   
 </h1>
 
