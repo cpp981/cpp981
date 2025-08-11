@@ -3,9 +3,9 @@
 ﻿<h1 align="center"> 
  <!--![StarsCount](https://img.shields.io/github/stars/leonxrdon?style=social)  -->
  
-  [![VisitorCountLogo](https://img.shields.io/badge/Visitor%20Count-Yellow?style=social&logo=Github&logoColor=black&color=white)](https://github.com/cpp981)  
-  
- ![Visitor Count](https://profile-counter.glitch.me/cpp981/count.svg)
+ <!-- [![VisitorCountLogo](https://img.shields.io/badge/Visitor%20Count-Yellow?style=social&logo=Github&logoColor=black&color=white)](https://github.com/cpp981)  -->
+ <!-- ![Visitor Count](https://profile-counter.glitch.me/cpp981/count.svg)-->
+![VISITOR COUNT](https://komarev.com/ghpvc/?username=cpp981&style=for-the-badge&color=brightgreen)
   
 </h1>
 
